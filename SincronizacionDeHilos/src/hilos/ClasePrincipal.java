@@ -45,7 +45,7 @@ public class ClasePrincipal {
 		try {
 			hilo4.sleep(10);
 		} catch (InterruptedException e) {
-			System.out.println("erorr en el hilo 4 " + e);
+			System.out.println("pvto el que lo leea " + e);
 		}
 		
 
